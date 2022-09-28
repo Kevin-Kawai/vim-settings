@@ -8,9 +8,11 @@ call plug#begin('~/.vim/plugged')
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
 " https://github.com/lambdalisue/fern.vim
-Plug 'lambdalisue/fern.vim'
+" Plug 'lambdalisue/fern.vim'
 " https://github.com/vim-airline/vim-airline
 Plug 'vim-airline/vim-airline'
+" https://github.com/preservim/nerdtree
+Plug 'preservim/nerdtree'
 
 " GIT
 " https://github.com/tpope/vim-fugitive
