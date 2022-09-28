@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/Users/kevinkawai/sandbox/foodie'
+let g:netrw_dirhist_0='/Users/kevinkawai/sandbox'
+let g:netrw_dirhist_9='/Users/kevinkawai/Projects/boron-web'
+let g:netrw_dirhist_8='/Users/kevinkawai/Projects/boron/config'
+let g:netrw_dirhist_7='/Users/kevinkawai'
+let g:netrw_dirhist_6='/Users/kevinkawai/Projects/boron-web'
+let g:netrw_dirhist_5='/Users/kevinkawai/Projects/boron'
+let g:netrw_dirhist_4='/Users/kevinkawai'
+let g:netrw_dirhist_3='/Users/kevinkawai/Projects/boron'
+let g:netrw_dirhist_2='/Users/kevinkawai/Projects/boron/.circleci'
