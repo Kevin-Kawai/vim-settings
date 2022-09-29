@@ -32,6 +32,8 @@ Plug 'MaxMEllon/vim-jsx-pretty'
 Plug 'peitalin/vim-jsx-typescript'
 " https://github.com/neoclide/coc.nvim
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
+" https://github.com/neoclide/coc-tsserver
+" https://github.com/neoclide/coc-prettier
 let g:coc_global_extensions = [
   \ 'coc-tsserver',
   \ 'coc-prettier'
