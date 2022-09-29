@@ -15,6 +15,8 @@ Plug 'vim-airline/vim-airline'
 Plug 'preservim/nerdtree'
 " https://github.com/airblade/vim-gitgutter
 Plug 'airblade/vim-gitgutter'
+" https://github.com/Yggdroot/indentLine
+Plug 'Yggdroot/indentLine'
 
 " GIT
 " https://github.com/tpope/vim-fugitive
