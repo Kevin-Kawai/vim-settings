@@ -13,6 +13,8 @@ Plug 'junegunn/fzf.vim'
 Plug 'vim-airline/vim-airline'
 " https://github.com/preservim/nerdtree
 Plug 'preservim/nerdtree'
+" https://github.com/airblade/vim-gitgutter
+Plug 'airblade/vim-gitgutter'
 
 " GIT
 " https://github.com/tpope/vim-fugitive
