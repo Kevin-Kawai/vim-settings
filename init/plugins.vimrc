@@ -26,4 +26,4 @@ map <Leader>a :call RunAllSpecs()<CR>
 " preservim/nerdtree
 " enable line numbers
 let NERDTreeShowLineNumbers=1
-
+let NERDTreeWinSize=60
