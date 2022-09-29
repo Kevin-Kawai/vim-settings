@@ -31,7 +31,8 @@ Plug 'peitalin/vim-jsx-typescript'
 " https://github.com/neoclide/coc.nvim
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 let g:coc_global_extensions = [
-  \ 'coc-tsserver'
+  \ 'coc-tsserver',
+  \ 'coc-prettier'
   \ ]
 
 " RUBY/RAILS
