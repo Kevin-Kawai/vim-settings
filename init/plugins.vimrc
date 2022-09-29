@@ -17,6 +17,10 @@ autocmd FileType typescriptreact nmap <buffer> <silent> gr <Plug>(coc-references
 
 inoremap <expr> <cr> coc#pum#visible() ? coc#pum#confirm() : "\<CR>"
 
+" coc-prettier
+command! -nargs=0 Prettier :CocCommand prettier.forceFormatDocument
+
+
 " RSpec.vim mappings
 map <Leader>t :call RunCurrentSpecFile()<CR>
 map <Leader>s :call RunNearestSpec()<CR>
