@@ -3,3 +3,4 @@ function! KeybindingHelper()
 endfunction
 
 command! BufClear silent! execute "%bd\|e#"
+command! Tnt silent! execute "tabnew \| terminal"
