@@ -14,8 +14,18 @@ autocmd FileType typescript nmap <buffer> <silent> gr <Plug>(coc-references)
 autocmd FileType typescriptreact nmap <buffer> <silent> <C-]> <Plug>(coc-definition)
 autocmd FileType typescriptreact nmap <buffer> <silent> gy <Plug>(coc-type-definition)
 autocmd FileType typescriptreact nmap <buffer> <silent> gr <Plug>(coc-references)
-
 inoremap <expr> <cr> coc#pum#visible() ? coc#pum#confirm() : "\<CR>"
+
+" airline-theme
+let g:airline_theme='simple'
+
+" iceberg (colorscheme)
+colorscheme iceberg
+
+" lightline
+
+set noshowmode
+
 
 " coc-prettier
 command! -nargs=0 Prettier :CocCommand prettier.forceFormatDocument

@@ -9,6 +9,8 @@ Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
 " https://github.com/vim-airline/vim-airline
 Plug 'vim-airline/vim-airline'
+" https://github.com/vim-airline/vim-airline-themes
+Plug 'vim-airline/vim-airline-themes'
 " https://github.com/preservim/nerdtree
 Plug 'preservim/nerdtree'
 " https://github.com/airblade/vim-gitgutter
@@ -19,6 +21,8 @@ Plug 'Yggdroot/indentLine'
 Plug 'cocopon/iceberg.vim'
 " https://github.com/Raimondi/delimitMate
 Plug 'Raimondi/delimitMate'
+" https://github.com/itchyny/lightline.vim
+" Plug 'itchyny/lightline.vim'
 
 
 " GIT
