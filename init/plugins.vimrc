@@ -16,6 +16,12 @@ autocmd FileType typescriptreact nmap <buffer> <silent> gy <Plug>(coc-type-defin
 autocmd FileType typescriptreact nmap <buffer> <silent> gr <Plug>(coc-references)
 inoremap <expr> <cr> coc#pum#visible() ? coc#pum#confirm() : "\<CR>"
 
+" auto-session
+let g:auto_session_pre_save_cmds = ["tabdo NERDTreeClose"]
+
+" airline
+let g:airline#extensions#tabline#enabled = 1
+
 " airline-theme
 let g:airline_theme='simple'
 
