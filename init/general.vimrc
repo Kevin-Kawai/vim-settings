@@ -6,6 +6,8 @@ let mapleader = " "
 
 syntax on
 
+colorscheme iceberg
+
 " backspace
 " https://stackoverflow.com/questions/10727392/vim-not-allowing-backspace
 set backspace=2

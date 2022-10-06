@@ -15,8 +15,11 @@ Plug 'preservim/nerdtree'
 Plug 'airblade/vim-gitgutter'
 " https://github.com/Yggdroot/indentLine
 Plug 'Yggdroot/indentLine'
-" https://github.com/jiangmiao/auto-pairs
-Plug 'jiangmiao/auto-pairs'
+" https://github.com/cocopon/iceberg.vim/
+Plug 'cocopon/iceberg.vim'
+" https://github.com/Raimondi/delimitMate
+Plug 'Raimondi/delimitMate'
+
 
 " GIT
 " https://github.com/tpope/vim-fugitive
