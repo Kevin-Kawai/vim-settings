@@ -7,8 +7,6 @@ call plug#begin('~/.vim/plugged')
 " https://github.com/junegunn/fzf.vim
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
-" https://github.com/lambdalisue/fern.vim
-" Plug 'lambdalisue/fern.vim'
 " https://github.com/vim-airline/vim-airline
 Plug 'vim-airline/vim-airline'
 " https://github.com/preservim/nerdtree
@@ -17,6 +15,8 @@ Plug 'preservim/nerdtree'
 Plug 'airblade/vim-gitgutter'
 " https://github.com/Yggdroot/indentLine
 Plug 'Yggdroot/indentLine'
+" https://github.com/jiangmiao/auto-pairs
+Plug 'jiangmiao/auto-pairs'
 
 " GIT
 " https://github.com/tpope/vim-fugitive
