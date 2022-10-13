@@ -6,6 +6,9 @@ let mapleader = " "
 
 syntax on
 
+" exit terminal mode with ESC
+tnoremap <ESC> <C-\><C-n>
+
 " backspace
 " https://stackoverflow.com/questions/10727392/vim-not-allowing-backspace
 set backspace=2
