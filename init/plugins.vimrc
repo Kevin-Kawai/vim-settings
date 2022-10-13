@@ -21,6 +21,7 @@ let g:auto_session_pre_save_cmds = ["tabdo NERDTreeClose"]
 
 " airline
 let g:airline#extensions#tabline#enabled = 1
+let g:airline#extensions#tabline#show_tabs = 0
 
 " airline-theme
 let g:airline_theme='simple'
@@ -29,9 +30,7 @@ let g:airline_theme='simple'
 colorscheme iceberg
 
 " lightline
-
 set noshowmode
-
 
 " coc-prettier
 command! -nargs=0 Prettier :CocCommand prettier.forceFormatDocument
