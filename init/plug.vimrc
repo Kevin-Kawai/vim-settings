@@ -31,6 +31,8 @@ Plug 'nvim-telescope/telescope.nvim'
 Plug 'nvim-lua/plenary.nvim'
 " https://github.com/MattesGroeger/vim-bookmarks
 Plug 'MattesGroeger/vim-bookmarks'
+" https://github.com/tpope/vim-commentary
+Plug 'tpope/vim-commentary'
 
 
 " GIT
