@@ -35,6 +35,8 @@ set noshowmode
 " coc-prettier
 command! -nargs=0 Prettier :CocCommand prettier.forceFormatDocument
 
+" Bookmarks
+let g:bookmark_no_default_key_mappings = 1
 
 " RSpec.vim mappings
 map <Leader>t :call RunCurrentSpecFile()<CR>
