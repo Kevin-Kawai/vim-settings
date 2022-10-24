@@ -38,6 +38,13 @@ Plug 'tpope/vim-commentary'
 " https://github.com/tpope/vim-fugitive
 Plug 'tpope/vim-fugitive'
 
+" PlantUML
+" https://github.com/weirongxu/plantuml-previewer.vim
+Plug 'weirongxu/plantuml-previewer.vim'
+" https://github.com/aklt/plantuml-syntax
+Plug 'aklt/plantuml-syntax'
+" https://github.com/tyru/open-browser.vim
+Plug 'tyru/open-browser.vim'
 
 " JAVASCRIPT/TYPESCRIPT/REACT
 " https://github.com/pangloss/vim-javascript
