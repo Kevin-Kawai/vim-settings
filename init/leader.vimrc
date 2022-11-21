@@ -7,3 +7,5 @@ nnoremap <C-l> :bn<CR>" next buffer
 nnoremap <leader>p :GFiles<CR>
 nnoremap <C-q> :NERDTreeToggle<CR> " toggle nerd tree
 
+nnoremap <leader>b :Buffer<CR>
+
