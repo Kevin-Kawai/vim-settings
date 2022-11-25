@@ -71,4 +71,6 @@ Plug 'thoughtbot/vim-rspec'
 Plug 'tpope/vim-endwise'
 " https://github.com/tpope/vim-rails
 Plug 'tpope/vim-rails'
+" https://github.com/jlcrochet/vim-rbs
+Plug 'jlcrochet/vim-rbs'
 call plug#end()
