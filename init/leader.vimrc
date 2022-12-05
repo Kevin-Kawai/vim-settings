@@ -9,3 +9,7 @@ nnoremap <C-q> :NERDTreeToggle<CR> " toggle nerd tree
 
 nnoremap <leader>b :Buffer<CR>
 
+nnoremap <leader>q :NERDTreeFind<CR>
+
+nnoremap <leader>yp :let @*=expand("%")<CR>
+
