@@ -40,7 +40,10 @@ let g:airline#extensions#tabline#show_tabs = 0
 let g:airline_theme='simple'
 
 " iceberg (colorscheme)
-colorscheme iceberg
+" colorscheme iceberg
+" moonfly colorscheme
+colorscheme moonfly
+set termguicolors
 
 " lightline
 set noshowmode

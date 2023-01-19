@@ -18,7 +18,9 @@ Plug 'airblade/vim-gitgutter'
 " https://github.com/Yggdroot/indentLine
 Plug 'Yggdroot/indentLine'
 " https://github.com/cocopon/iceberg.vim/
-Plug 'cocopon/iceberg.vim'
+" Plug 'cocopon/iceberg.vim'
+" https://github.com/bluz71/vim-moonfly-colors
+Plug 'bluz71/vim-moonfly-colors'
 " https://github.com/Raimondi/delimitMate
 Plug 'Raimondi/delimitMate'
 " https://github.com/rmagatti/auto-session
