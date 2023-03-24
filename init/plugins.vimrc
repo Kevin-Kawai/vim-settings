@@ -42,7 +42,8 @@ let g:airline_theme='simple'
 " iceberg (colorscheme)
 " colorscheme iceberg
 " moonfly colorscheme
-colorscheme moonfly
+" colorscheme moonfly
+colorscheme gruvbox-material
 set termguicolors
 
 " lightline

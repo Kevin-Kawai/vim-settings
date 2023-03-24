@@ -17,10 +17,6 @@ Plug 'preservim/nerdtree'
 Plug 'airblade/vim-gitgutter'
 " https://github.com/Yggdroot/indentLine
 Plug 'Yggdroot/indentLine'
-" https://github.com/cocopon/iceberg.vim/
-" Plug 'cocopon/iceberg.vim'
-" https://github.com/bluz71/vim-moonfly-colors
-Plug 'bluz71/vim-moonfly-colors'
 " https://github.com/Raimondi/delimitMate
 Plug 'Raimondi/delimitMate'
 " https://github.com/rmagatti/auto-session
@@ -35,6 +31,16 @@ Plug 'nvim-lua/plenary.nvim'
 Plug 'MattesGroeger/vim-bookmarks'
 " https://github.com/tpope/vim-commentary
 Plug 'tpope/vim-commentary'
+" https://github.com/nvim-treesitter/nvim-treesitter
+Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
+
+" Color Schemes
+" https://github.com/cocopon/iceberg.vim/
+" Plug 'cocopon/iceberg.vim'
+" https://github.com/bluz71/vim-moonfly-colors
+" Plug 'bluz71/vim-moonfly-colors'
+" https://github.com/sainnhe/gruvbox-material
+Plug 'sainnhe/gruvbox-material'
 
 " GIT
 " https://github.com/tpope/vim-fugitive
